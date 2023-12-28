@@ -1,5 +1,5 @@
 ---
-contributors: false
+title: Get that money!
 externalLinkIcon: true
 date: 2023-12-28
 ---
@@ -10,3 +10,4 @@ date: 2023-12-28
 
 ## How to get there
 
+## Links
