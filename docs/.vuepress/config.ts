@@ -42,12 +42,12 @@ export default defineUserConfig({
         link: "/songs/",
       },
       {
-        text: "Using this template",
-        link: "/template/",
+        text: "Journal Entry",
+        link: "/journal/",
       },
       {
         text: "GitHub",
-        link: "https://github.com/NdagiStanley/VueDN",
+        link: "https://github.com/sparlingo/btbm",
       },
     ],
     // notice there's a difference between /songs and /songs/
