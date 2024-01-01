@@ -1,9 +1,8 @@
 ---
 title: Wealth
 externalLinkIcon: true
-date: 2023-12-28
 ---
-# Get that money! Save that money!
+# Get that money! Save that money
 
 ## Goals
 

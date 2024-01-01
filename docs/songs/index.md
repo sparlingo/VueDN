@@ -7,7 +7,6 @@ lastUpdated: false
 
 At the beginning of 2024, you are not feeling well.
 
-
 ## Emotional
 
 - Just be kind
